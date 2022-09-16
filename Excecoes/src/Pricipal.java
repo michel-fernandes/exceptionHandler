@@ -2,7 +2,7 @@
 public class Pricipal {
 
 	public static void main(String[] args){
-		a(-10);
+		a(-102);
 		System.out.println("terminando a execucao de main()");
 	}
 	
